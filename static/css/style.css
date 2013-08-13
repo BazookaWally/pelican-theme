@@ -42,7 +42,10 @@ body {
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -webkit-text-size-adjust: 100%;
 }
-
+#page-side {
+ position:fixed; 
+}
+}
 /**
  * Handle different browser sizes
  */
